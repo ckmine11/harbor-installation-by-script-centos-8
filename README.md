@@ -1,0 +1,1 @@
+# harbor-installation-by-script-centos-8
